@@ -2,12 +2,11 @@ main()
 {
 // code
 }
-
+<<<<<<< HEAD
 feature1()
-{
-//code
-}
+=======
 feature2()
+>>>>>>> F2
 {
 // code
 }
